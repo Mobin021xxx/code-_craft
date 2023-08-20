@@ -1,0 +1,793 @@
+body{
+    margin: 0px;
+    height: 0px;
+}
+.back-ground-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 1321px;
+    height: 560px;
+}
+.div {
+    position: absolute;
+    top: 349px;
+    left: calc(50% + 457.5px);
+    display: inline-block;
+    width: 92px;
+    height: 34px;
+}
+.div1 {
+    position: absolute;
+    top: 487px;
+    left: calc(50% + 457.5px);
+    display: inline-block;
+    width: 92px;
+    height: 34px;
+}
+.div2 {
+    position: absolute;
+    top: 418px;
+    left: calc(50% + 457.5px);
+    display: inline-block;
+    width: 92px;
+    height: 34px;
+}
+.div3 {
+    position: absolute;
+    top: 280px;
+    left: calc(50% + 457.5px);
+    display: inline-block;
+    width: 92px;
+    height: 34px;
+}
+.logo-icon {
+    position: absolute;
+    top: 200px;
+    left: calc(50% - 659.5px);
+    width: 202px;
+    height: 68px;
+    object-fit: cover;
+}
+.telegram-icon {
+    position: absolute;
+    height: 6.79%;
+    width: 2.88%;
+    top: 87.05%;
+    right: 86.34%;
+    bottom: 6.16%;
+    left: 10.79%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.instagram-icon {
+    position: absolute;
+    width: 2.65%;
+    top: 489px;
+    right: 94.4%;
+    left: 2.95%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 35px;
+}
+.youtube-icon {
+    position: absolute;
+    width: 2.65%;
+    top: 489px;
+    right: 78.5%;
+    left: 18.85%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 35px;
+}
+.down-icon {
+    position: absolute;
+    width: 1.06%;
+    top: 435px;
+    right: 15.67%;
+    left: 83.27%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 8px;
+}
+.down-icon1 {
+    position: absolute;
+    width: 1.06%;
+    top: 508px;
+    right: 15.67%;
+    left: 83.27%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 8px;
+}
+.footer {
+    position: absolute;
+    top: 6833px;
+    left: 1325px;
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 1321px;
+    height: 560px;
+}
+.div4 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 548.5px);
+    font-size: 54px;
+    color: #2a2d53;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 1096px;
+    height: 140px;
+}
+.title-child {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: 20px;
+    background-color: #fff;
+}
+.div5 {
+    position: absolute;
+    top: 22.86%;
+    left: 41.14%;
+}
+.title {
+    position: absolute;
+    top: 210px;
+    left: calc(50% - 660.5px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 70px;
+}
+.div6 {
+    position: absolute;
+    top: 22.86%;
+    left: 43.67%;
+}
+.title1 {
+    position: absolute;
+    top: 210px;
+    left: calc(50% - 325.5px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 70px;
+}
+.div7 {
+    position: absolute;
+    top: 22.86%;
+    left: 32.91%;
+}
+.title2 {
+    position: absolute;
+    top: 210px;
+    left: calc(50% + 9.5px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 70px;
+}
+.div8 {
+    position: absolute;
+    top: 22.86%;
+    left: 38.61%;
+}
+.title3 {
+    position: absolute;
+    top: 210px;
+    left: calc(50% + 344.5px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 70px;
+}
+.div9 {
+    position: absolute;
+    top: 22.86%;
+    left: 40.82%;
+}
+.title4 {
+    position: absolute;
+    top: 350px;
+    left: calc(50% + 9.5px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 70px;
+}
+.div10 {
+    position: absolute;
+    top: 22.86%;
+    left: 40.19%;
+}
+.title5 {
+    position: absolute;
+    top: 350px;
+    left: calc(50% - 325.5px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 70px;
+}
+.div11 {
+    position: absolute;
+    top: 22.86%;
+    left: 33.23%;
+}
+.title6 {
+    position: absolute;
+    top: 350px;
+    left: calc(50% - 660.5px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 70px;
+}
+.div12 {
+    position: absolute;
+    top: 22.86%;
+    left: 42.09%;
+}
+.title7 {
+    position: absolute;
+    top: 350px;
+    left: calc(50% + 344.5px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 70px;
+}
+.mathematics-bro-1-icon {
+    position: absolute;
+    top: 560px;
+    left: calc(50% - 660.5px);
+    width: 1320px;
+    height: 560px;
+    object-fit: cover;
+}
+.example-animation {
+    position: absolute;
+    top: 5256px;
+    left: calc(50% - 660px);
+    width: 1321px;
+    height: 1120px;
+}
+.user-comments-form-child {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 660px);
+    border-radius: 20px;
+    background-color: #f4f5f7;
+    width: 1320px;
+    height: 560px;
+}
+.comment-child {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 110px);
+    border-radius: 20px;
+    background-color: #fff;
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 315px;
+    height: 70px;
+}
+.comment-item {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 205px);
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+.div13 {
+    position: absolute;
+    top: 23px;
+    left: calc(50% - 58px);
+    text-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+}
+.comment {
+    position: absolute;
+    top: 118px;
+    left: calc(50% - 580px);
+    width: 410px;
+    height: 70px;
+}
+.div14 {
+    position: absolute;
+    top: 22px;
+    left: calc(50% - 11px);
+}
+.comment1 {
+    position: absolute;
+    top: 418px;
+    left: calc(50% - 580px);
+    width: 410px;
+    height: 70px;
+}
+.comment-child1 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 114px);
+    border-radius: 20px;
+    background-color: #fff;
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 315px;
+    height: 70px;
+}
+.comment-child2 {
+    position: absolute;
+    top: 3px;
+    left: calc(50% - 201px);
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    object-fit: cover;
+}
+.div15 {
+    position: absolute;
+    top: 22px;
+    left: calc(50% - 16px);
+}
+.comment2 {
+    position: absolute;
+    top: 312px;
+    left: calc(50% - 257px);
+    width: 402px;
+    height: 73px;
+}
+.div16 {
+    position: absolute;
+    top: 23px;
+    left: calc(50% - 34px);
+    text-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+}
+.comment3 {
+    position: absolute;
+    top: 104px;
+    left: calc(50% + 102px);
+    width: 410px;
+    height: 70px;
+}
+.div17 {
+    position: absolute;
+    top: 23px;
+    left: calc(50% - 27px);
+}
+.comment4 {
+    position: absolute;
+    top: 432px;
+    left: calc(50% + 102px);
+    width: 410px;
+    height: 70px;
+}
+.user-comments-form {
+    position: absolute;
+    top: 4416px;
+    left: calc(50% - 660px);
+    width: 1320px;
+    height: 560px;
+    font-size: 16px;
+}
+.div18 {
+    position: absolute;
+    top: 4311px;
+    left: calc(50% - 214px);
+    font-size: 54px;
+    color: #2a2d53;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 428px;
+    height: 70px;
+}
+.div20 {
+    position: relative;
+}
+.wrapper {
+    position: absolute;
+    top: calc(50% - 19px);
+    left: calc(50% - 101px);
+    border-radius: 10px;
+    background-color: #4a6dfb;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 56px;
+    align-items: center;
+    justify-content: center;
+}
+.child {
+    position: absolute;
+    height: 26.92%;
+    width: 93.63%;
+    top: 0%;
+    right: 3.43%;
+    bottom: 73.08%;
+    left: 2.94%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.div19 {
+    position: absolute;
+    height: 19.02%;
+    width: 37.85%;
+    top: 80.98%;
+    right: 0.19%;
+    bottom: 0%;
+    left: 61.97%;
+    text-align: center;
+}
+.div21 {
+    position: absolute;
+    height: 34.15%;
+    width: 100%;
+    top: 38.29%;
+    left: 0%;
+    font-size: 16px;
+    color: #a8aeb9;
+    display: inline-block;
+}
+.div22 {
+    position: absolute;
+    height: 34.15%;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    font-size: 54px;
+    color: #2a2d53;
+    display: inline-block;
+}
+.coulmn {
+    position: absolute;
+    height: 73.21%;
+    width: 40.86%;
+    top: 13.39%;
+    right: 0%;
+    bottom: 13.39%;
+    left: 59.14%;
+}
+.section-child {
+    position: absolute;
+    height: 100%;
+    width: 49.2%;
+    top: 0%;
+    right: 50.8%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.section {
+    position: absolute;
+    top: 3471px;
+    left: calc(50% - 657px);
+    width: 1319px;
+    height: 560px;
+    text-align: right;
+    color: #f4f5f7;
+}
+.div23 {
+    position: absolute;
+    top: 332px;
+    left: calc(50% + 59px);
+    width: 204px;
+    height: 78px;
+    text-align: center;
+}
+.div25 {
+    position: absolute;
+    top: 157px;
+    left: calc(50% - 265px);
+    font-size: 16px;
+    color: #a8aeb9;
+    display: inline-block;
+    width: 539px;
+    height: 140px;
+}
+.div26 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 274px);
+    font-size: 54px;
+    color: #2a2d53;
+    display: inline-block;
+    width: 535.35px;
+    height: 140px;
+}
+.coulmn1 {
+    position: absolute;
+    top: 75px;
+    left: calc(50% - 660px);
+    width: 548px;
+    height: 410px;
+}
+.section-item {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 11px);
+    width: 649px;
+    height: 560px;
+    object-fit: cover;
+}
+.section1 {
+    position: absolute;
+    top: 2631px;
+    left: calc(50% - 671px);
+    width: 1320px;
+    height: 560px;
+    text-align: right;
+    color: #f4f5f7;
+}
+.section2 {
+    position: absolute;
+    top: 1791px;
+    left: calc(50% - 658px);
+    width: 1319px;
+    height: 560px;
+    text-align: right;
+    color: #f4f5f7;
+}
+.card-item {
+    position: absolute;
+    height: 46.79%;
+    width: 94.62%;
+    top: 53.21%;
+    right: 5.38%;
+    bottom: 0%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.card-inner {
+    position: absolute;
+    height: 46.79%;
+    width: 94.62%;
+    top: 53.21%;
+    right: -94.62%;
+    bottom: 0%;
+    left: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+}
+.div31 {
+    position: absolute;
+    height: 12.5%;
+    width: 100%;
+    top: 72.14%;
+    left: 0%;
+    display: inline-block;
+}
+.mathematics-bro-1-icon1 {
+    position: absolute;
+    height: 50%;
+    width: 80.38%;
+    top: 11.07%;
+    right: 9.81%;
+    bottom: 38.93%;
+    left: 9.81%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    object-fit: cover;
+}
+.card {
+    position: absolute;
+    top: 1231px;
+    left: calc(50% + 344px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 280px;
+}
+.card1 {
+    position: absolute;
+    top: 1229px;
+    left: calc(50% + 10px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 280px;
+}
+.card2 {
+    position: absolute;
+    top: 1231px;
+    left: calc(50% - 326px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 280px;
+}
+.card3 {
+    position: absolute;
+    top: 1231px;
+    left: calc(50% - 661px);
+    box-shadow: 15px 14px 24px rgba(0, 0, 0, 0.08);
+    width: 316px;
+    height: 280px;
+}
+.div35 {
+    position: absolute;
+    top: 175px;
+    left: calc(50% - 102.5px);
+    display: inline-block;
+    width: 316px;
+    height: 280px;
+}
+.div36 {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 213.5px);
+    font-size: 54px;
+    color: #2a2d53;
+    display: flex;
+    align-items: center;
+    width: 427px;
+    height: 140px;
+}
+.frame-div {
+    position: absolute;
+    top: calc(50% - 19px);
+    left: calc(50% - 102px);
+    border-radius: 10px;
+    background-color: #4a6dfb;
+    display: flex;
+    flex-direction: row;
+    padding: 10px 80px;
+    align-items: center;
+    justify-content: center;
+}
+.div37 {
+    position: absolute;
+    top: 470px;
+    left: calc(50% + 9.5px);
+    width: 204px;
+    height: 78px;
+    text-align: center;
+    font-size: 24px;
+    color: #f4f5f7;
+}
+.coulmn3 {
+    position: absolute;
+    top: 130px;
+    left: calc(50% + 233.5px);
+    width: 427px;
+    height: 548px;
+}
+.man-icon {
+    position: absolute;
+    top: 0px;
+    left: calc(50% - 660.5px);
+    width: 875px;
+    height: 690px;
+    object-fit: cover;
+}
+.section3 {
+    position: absolute;
+    top: 261px;
+    left: calc(50% - 661px);
+    width: 1321px;
+    height: 690px;
+    text-align: right;
+    font-size: 16px;
+    color: #a8aeb9;
+}
+.div39 {
+    position: absolute;
+    top: 18px;
+    left: calc(50% + 400.5px);
+    display: inline-block;
+    width: 37px;
+}
+.div40 {
+    position: absolute;
+    top: 18px;
+    left: calc(50% + 173.5px);
+    display: inline-block;
+    width: 90px;
+}
+.div41 {
+    position: absolute;
+    top: 18px;
+    left: calc(50% + 297.5px);
+    display: inline-block;
+    width: 68px;
+}
+.div42 {
+    position: absolute;
+    top: 18px;
+    left: calc(50% + 93.5px);
+    display: inline-block;
+    width: 45px;
+}
+.div43 {
+    position: absolute;
+    top: 18px;
+    left: calc(50% - 52.5px);
+    display: inline-block;
+    width: 62px;
+}
+.div44 {
+    position: absolute;
+    top: 22px;
+    left: calc(50% - 608.5px);
+    display: inline-block;
+    width: 114px;
+    height: 35px;
+}
+.user-icon {
+    position: absolute;
+    width: 2.65%;
+    top: 18px;
+    right: 97.35%;
+    left: 0%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 35px;
+}
+.logo-1-icon {
+    position: absolute;
+    top: 0px;
+    left: calc(50% + 456.5px);
+    width: 204px;
+    height: 70px;
+    object-fit: cover;
+}
+.sreach-icon {
+    position: absolute;
+    width: 2.65%;
+    top: 18px;
+    right: 78.27%;
+    left: 19.08%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 35px;
+}
+.dwon-icon {
+    position: absolute;
+    width: 1.14%;
+    top: 38px;
+    right: 56.55%;
+    left: 42.32%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 8px;
+}
+.dwon-icon1 {
+    position: absolute;
+    width: 1.14%;
+    top: 38px;
+    right: 45.57%;
+    left: 53.29%;
+    max-width: 100%;
+    overflow: hidden;
+    height: 8px;
+}
+.header {
+    position: absolute;
+    top: 35px;
+    left: calc(50% - 661px);
+    width: 1321px;
+    height: 70px;
+}
+.home-screen {
+    position: relative;
+    background-color: #f4f5f7;
+    width: 100%;
+    height: 7496px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 24px;
+    color: #72748e;
+    font-family: Lalezar;
+}
+
+/*media query*/
+@media screen and (max-width:900x){
+  
+  
+  
+}
+@media screen and (max-width:600x){
+    
+}
